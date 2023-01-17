@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+    margin: 0px;
 }
 .navbar {
     background-image: linear-gradient(55deg, lightblue, rgb(225, 232, 246));
@@ -14,9 +14,17 @@
     border: none;
     background-image: linear-gradient(55deg, rgb(148, 179, 189), gray);
     padding: 5px;
-    width: 15vw;
+    width: 10vw;
+}
+.btn:hover {
+    scale: 1.2;
 }
 a {
     text-decoration: none;
     color: azure;
+}
+/* description */
+.description {
+    margin-top: 20px;
+    margin: auto;
 }

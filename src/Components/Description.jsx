@@ -1,7 +1,10 @@
 export const Description = () => {
   return (
     <>
-     <p>Hello this is the Description</p>
+     <div className="description">
+      <h2>Tech Titans</h2>
+      <p>This is the Home Pages</p>
+     </div>
     </>
   )
 }
