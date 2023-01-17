@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+.navbar {
+    background-image: linear-gradient(55deg, lightblue, rgb(225, 232, 246));
+    padding: 10px;
+}
+.nav-btn {
+    display: flex;
+    justify-content: space-evenly;
+}
+.btn {
+    border-radius: 5px;
+    border: none;
+    background-image: linear-gradient(55deg, rgb(148, 179, 189), gray);
+    padding: 5px;
+    width: 15vw;
+}
+a {
+    text-decoration: none;
+    color: azure;
+}
